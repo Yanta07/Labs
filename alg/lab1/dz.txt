@@ -1,0 +1,5 @@
+Сортировка слиянием
+Быстрая сортировка
+radix sort
+heapsort
+bucket sort
